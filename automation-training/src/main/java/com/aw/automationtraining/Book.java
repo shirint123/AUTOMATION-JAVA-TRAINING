@@ -7,7 +7,7 @@
 
 package com.aw.automationtraining;
 
-import java.util.Scanner;
+/*import java.util.Scanner;*/
 
 public class Book 
 {
